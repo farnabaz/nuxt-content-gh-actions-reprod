@@ -1,0 +1,9 @@
+sitename: foo
+navigation:
+  links:
+    - id: 0
+      title: Foo
+      url: "#foo"
+    - id: 1
+      title: Bar
+      url: "#bar"
